@@ -13,3 +13,7 @@ body {
   border-bottom-style: solid;
   border-bottom-color: #585858 ;
 }
+
+#header-img {
+  padding: 2% 0 2% 6%;
+}
